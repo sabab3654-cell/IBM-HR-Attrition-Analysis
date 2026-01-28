@@ -22,6 +22,3 @@ To analyze employee attrition and identify key factors influencing employee turn
 - Attrition vs Years at Company
 ## Conclusion
 This dashboard provides insights to help HR teams reduce attrition using data-driven decisions.
-
-## Conclusion
-This dashboard provides insights to help HR teams reduce attrition using data-driven decisions.
